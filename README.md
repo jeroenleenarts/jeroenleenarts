@@ -1,4 +1,5 @@
-I also work under my [AppForce1](https://appforce1.net)
+I also work under my [AppForce1](https://appforce1.net) name.
+
 # Jeroen Leenarts
 I am a software developer currently specialized in iOS development. But I have a long and varied history working on all kinds of technical challenging systems.I started working as a software developer in 2002.
 
